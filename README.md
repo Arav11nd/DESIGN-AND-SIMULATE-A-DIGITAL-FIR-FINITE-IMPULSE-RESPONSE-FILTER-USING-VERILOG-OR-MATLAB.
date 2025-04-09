@@ -41,3 +41,6 @@ Tools and Learning:
  * Online Documentation: For Verilog and DSP reference.
 This project provides a robust foundation for exploring FIR filter design and simulation, empowering users to delve into the intricacies of DSP and hardware implementation.
 
+**task output**
+
+![Image](https://github.com/user-attachments/assets/e1b47ebd-4e37-4597-849b-e1893510d067)
